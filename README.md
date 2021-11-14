@@ -6,8 +6,7 @@ Have you ever thought about having your own personal AI assistant? Consider how 
 
 Oplus is a program that recognises natural language voice commands and does activities on the user's behalf.
 
-
-![LOGO](http://drive.google.com/file/d/1Ba3sL7vVwn2g0ZiPojbYoyBz3J4-ueFt/view?usp=drivesdk)
+![oplus](https://user-images.githubusercontent.com/94285537/141683057-09188c89-8aed-4074-8497-4dcbea804ae4.jpg)
 
 ## Main features
 - It can play music for you and send emails on your behalf.
