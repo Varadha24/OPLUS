@@ -1,6 +1,6 @@
 # Oplus
 
-Have you ever thought about having your own personal AI assistant? Consider how much easier it would be to send emails without typing a single word, to do Wikipedia searches without opening a browser, and to carry out a variety of other daily operations such as playing music with just a single voice command. And now we offer you with Oplus, a Python-based virtual assistant.
+Creating our own A.I assistant is fascinating,right?  It would be far better if a virtual assistant could open online browsers, search Wikipedia to abstract required data, compose mail on our behalf, and execute a variety of other daily task with just one voice command. And now we offer you with Oplus, a Python-based virtual assistant.
 
 
 
