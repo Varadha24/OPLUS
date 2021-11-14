@@ -78,6 +78,10 @@ if __name__ == "__main__":
 
         elif 'open google' in query:
             webbrowser.open("google.com")
+            
+        elif 'How are you' in query:
+            speak("I am fine, Thankyou")
+            speak("How are you?")
 
         elif 'play music' in query:
             music_dir = 'D:\\Non Critical\\songs\\Favorite Songs2'
