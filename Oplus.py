@@ -23,12 +23,12 @@ def wishMe():
         speak("Good Morning!")
 
     elif hour>=12 and hour<18:
-        speak("Good Afternoon!")
+        speak("Good Afternoon")
 
     else:
-        speak("Good Evening!")
+        speak("Good Evening")
 
-    speak("Hello, How can I help you")
+    speak("Hi Sir, How can I help you")
 
 def takeCommand():
     #It takes microphone input from the user and returns string output
@@ -94,7 +94,7 @@ if __name__ == "__main__":
             try:
                 speak("What should I say?")
                 content = takeCommand()
-                to = "xyz@gmail.com"
+                to = "oplus@gmail.com"
                 sendEmail(to, content)
                 speak("Email has been sent!")
             except Exception as e:
