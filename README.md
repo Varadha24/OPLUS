@@ -22,7 +22,7 @@ Modules used
  - Pipwin
  - Pyaudio
  - Datetime
-  - speechRecognition - To take command from microphone of the user's system
+  - speechRecognition
 
 
 ## Installation
