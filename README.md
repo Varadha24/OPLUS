@@ -12,7 +12,6 @@ Oplus is a program that recognises natural language voice commands and does acti
 - It can play music for you and send emails on your behalf.
 - It can do the Wikipedia searches on your behalf.
 - It has the ability to open websites such as google, Youtube etc in a web browser.  
-- It is also able of opening  your code editor or IDE with a single voice command
 
 ## Acknowledgements
 Modules used 
